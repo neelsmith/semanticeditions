@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 45024bed-2b71-4743-9069-46c9a09204bc
+      url: 'https://neelsmith.quarto.pub/semanticeditions'
