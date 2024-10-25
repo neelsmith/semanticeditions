@@ -11,3 +11,21 @@ engine: julia
 - goals of the project
 - work to date
 :::
+
+
+
+I use the term *semantic edition* for a digital edition that aims to encode the entire contents, textual and non-textual, of a physical document.
+
+
+
+I list here examples of some of the non-textual contents I have worked with digitally:
+
+-   Tools for multilingual reading: the Complutensian polyglot Bible
+-   Datasets for geographic maps: Ptolemy, *Geography*:
+-   Precomputed mathematical functions: Ptolemy, *Almagest*:
+-   Proofs with mathematical figures: Euclid, *Geometry*; Archimedes, *Spiral Lines*
+-   Grammatical inflectional tables
+-   Chronological computation: Jerome's *Chronicles*
+-   Documents with ancient Greek musical notation (including manuscripts of Alypius)
+-   Manuscripts with musical notation in neumes
+
