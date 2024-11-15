@@ -1,6 +1,6 @@
 project:
   type: website
-theme: spacelab
+theme: flatly
 execute:
   freeze: auto
 date: last-modified  
